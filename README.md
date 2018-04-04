@@ -3,4 +3,4 @@ Assignment that finds the shortest path between two points using DFS, BFS, Dijks
 
 The implementation occurs in trailblazer.cpp for each of the aforementioned algorithms.
 
-The full spec is listed as 'Assignment_06_Trailblazer.pdf' in the repository.
+The full spec is listed as 'Trailblazer.pdf' in the repository.
