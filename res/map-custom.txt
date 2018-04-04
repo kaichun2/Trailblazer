@@ -1,0 +1,14 @@
+IMAGE
+map-custom.jpg
+600
+400
+
+VERTICES
+California;60;200
+Kansas;300;200
+Unknown;600;400
+
+EDGES
+California;Kansas;200
+Unknown;California;1
+Unknown;Kansas;9999
